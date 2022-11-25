@@ -1,0 +1,10 @@
+Description: This project requires you to formulate a hypothesis or problem statement, then work with real, public data publicly available data to train a ML model of your choice, produce results and analyze them – including lessons learned. You are to also repeat the process in MS Power BI to demonstrate the similarity and differences from a Python-based approach vs a data democratization enabling tool. You are to work by yourself or in a team that does not exceed 3 people. 
+Requirements: 
+Team meeting: Meet with me to identify your team, your topic, and what you will have ready to show me in 1 week.
+Deliverables: 
+Page 1: Cover: Title, submitters & student numbers
+Page 2-n: Abstract describing ‘problem’, approach(es), data sources, model selected and why, results, analysis, conclusions, next steps, lessons learned.
+Appendix 1: Your Python (ipynb) file plus relevant description;
+Appendix 2: your MS PBI (pbix) file plus relevant description.
+  
+Submission: This assignment is due via Brightspace on or before 6 p.m. Fri Dec 9th.  A 1-mark bonus is available for early (more than 24 hours), complete submissions. Submit a zipped file named ‘Project_submitters_name’. Be sure all team members are identified in the document.
